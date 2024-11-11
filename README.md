@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZHUOYUYUIO
-- 👀 I’m interested in war and disater
+- 👀 I’m interested in disaters and wars
 - 🌱 I’m currently learning mesa_geo and machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：
