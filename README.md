@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZHUOYUYUIO
 - 👀 I’m interested in disaters and wars
-- 🌱 I’m currently learning mesa_geo and machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me：
+- 🌱 I’m currently learning llm-agent, mesa_geo, ABM using GPU and machine learning 
+- 💞️ I’m looking to collaborate on RESEARCH ON crisis informatics, risk analysis
+- 📫 How to reach me： Zhuoyu.Liu.2003@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
